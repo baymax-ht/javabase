@@ -7,4 +7,7 @@ public class GitTest {
         System.out.println("sd");
         System.out.println("sd");
     }
+    public void test(){
+        System.out.println("hello text");
+    }
 }
